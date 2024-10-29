@@ -1,0 +1,23 @@
+Small Sanskrit Model (SSM) Idea:
+    1. Train a transformer based model (with significantly lesser number of parameters than GPT/BERT) with Sanskrit corpus using Casuaul Language Training (e.g. next word prediction, fill in the blanks, sentence completion etc)
+    2. Then train the model with English corpus in a similar way.
+    3. Then train the model with Mathematics articles and books.
+    4. Then test abstract mathematical reasoning skills of the model.
+
+Beliefs:
+    A huge percentage of Sanskrit texts describe abstract things which do not exist physically e.g. lust, greed etc. I'm expecting the model to be able to understand abstract things better when trained with this corpus. 
+
+
+SA: U+0900 - U+097F
+SA_Decimal: 2304-2431
+অ = 2437, अ = 2309
+
+ ऀ ँ ं ः ऄ अ आ इ ई उ ऊ ऋ ऌ ऍ ऎ ए ऐ ऑ ऒ ओ औ क ख ग घ ङ च छ ज झ ञ ट ठ ड ढ ण त थ द ध न ऩ प फ ब भ म य र ऱ ल ळ ऴ व श ष स ह ऺ ऻ ़ ऽ ा ि ी ु ू ृ ॄ ॅ ॆ े ै ॉ ॊ ो ौ ् ॎ ॏ ॐ ॑ ॒ ॓ ॔ ॕ ॖ ॗ क़ ख़ ग़ ज़ ड़ ढ़ फ़ य़ ॠ ॡ ॢ ॣ । ॥ ० १ २ ३ ४ ५ ६ ७ ८ ९ ॰ ॱ ॲ ॳ ॴ ॵ ॶ ॷ ॸ ॹ ॺ ॻ ॼ ॽ ॾ ॿ 
+
+'ঁ ং ঃ অ আ ই ঈ উ ঊ ঋ ঌ এ ঐ ও ঔ ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড ঢ ণ ত থ দ ধ ন প ফ ব ভ ম য র ল ব শ ষ স হ ঽ া ি ী ু ূ ৃ ৄ ে ৈ ো ৌ ্ ॐ ০ ১ ২ ৩ ৪ ৫ ৬ ৭ ৮ ৯
+
+def devnagariToBengali(s):
+    return ''.join(map(lambda c: 'ব' if c == 'व' else c if c == 'ॐ' else chr(ord(c) + 128), s))
+
+
+!pip install transformers datasets torch indic-nlp-library

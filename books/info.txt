@@ -1,0 +1,75 @@
+https://sanskritdocuments.org/sanskrit/jyotisha/
+https://sanskritdocuments.org/sanskrit/tantra/
+https://sanskritdocuments.org/sanskrit/yoga/
+
+Valmiki:
+    Balakanda       : https://sanskritdocuments.org/mirrors/ramayana/utf/1_balakanda_*.html         # 1-76
+    Ayodhyakanda    : https://sanskritdocuments.org/mirrors/ramayana/utf/2_ayodhyakanda_*.html      # 1-111
+    Aranyakanda     : https://sanskritdocuments.org/mirrors/ramayana/utf/3_aranyakanda_*.html       # 1-71
+    Kishkindhakanda : https://sanskritdocuments.org/mirrors/ramayana/utf/4_kishkindhakanda_*.html   # 1-66
+    Sundarakanda    : https://sanskritdocuments.org/mirrors/ramayana/utf/5_sundarakanda_*.html      # 1-66
+    Yuddhakanda     : https://sanskritdocuments.org/mirrors/ramayana/utf/6_yuddhakanda_*.html       # 1-116
+    Uttarakanda     : https://sanskritdocuments.org/mirrors/ramayana/utf/7_uttarakanda_*.html       # 1-100
+
+Amarakosha :
+	https://www.youtube.com/watch?v=Tw7EWhYHLtM
+	https://www.youtube.com/playlist?list=PLTRtxQoTPNOTgIkedx6cWIITJmyzu2neY
+	https://sanskritdocuments.org/sanskrit/amarakosha/
+
+व्यासे वारिधिनिहते रूपहृते व्यससागराभिहते । त्रिशरादिविषमसंख्याभक्तं ॠणं स्वं पृथक्क्रमात् कुर्यात् ॥
+
+Mahavira's Ganitasarasangraha
+
+Samhita: hymns, prayers, and mantras.
+Brahmana: Prose texts that explain the Samhita rituals in detail.
+Aranyaka: philosophical texts, often seen as a bridge between ritualistic Brahmanas and the mystical Upanishads.
+Upanishad: spiritual knowledge and philosophy.
+
+https://vedicheritage.gov.in/sitemap/
+    Shukla Yajurveda Samhita:
+        Vajasaneyi Samhita(Kanva) : https://vedicheritage.gov.in/samhitas/yajurveda/vajasaneyi-kanva-samhita/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasaneyi-kanva-samhita/vajasaneyi-kanva-samhita-chapter-01/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasaneyi-kanva-samhita/vajasaneyi-kanva-samhita-chapter-02/
+            ...
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasaneyi-kanva-samhita/vajasaneyi-kanva-samhita-chapter-40/
+        Vajasneyi Samhita(Madhyandina) : https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-0-10-adhyaya-01/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-0-10-adhyaya-02/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-0-10-adhyaya-03/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-0-10-adhyaya-04/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-0-10-adhyaya-05/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-0-10-adhyaya-06/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-0-10-adhyaya-07/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-0-10-adhyaya-08/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-0-10-adhyaya-09/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-0-10-adhyaya-10/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-11-20-adhyaya-11/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-11-20-adhyaya-12/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-11-20-adhyaya-13/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-11-20-adhyaya-14/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-11-20-adhyaya-15/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-11-20-adhyaya-16/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-11-20-adhyaya-17/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-11-20-adhyaya-18/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-11-20-adhyaya-19/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-11-20-adhyaya-10/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-21-30-adhyaya-21/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-21-30-adhyaya-22/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-21-30-adhyaya-23/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-21-30-adhyaya-24/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-21-30-adhyaya-25/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-21-30-adhyaya-26/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-21-30-adhyaya-27/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-21-30-adhyaya-28/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-21-30-adhyaya-29/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-21-30-adhyaya-30/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-31-40-adhyaya-31/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-31-40-adhyaya-32/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-31-40-adhyaya-33/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-31-40-adhyaya-34/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-31-40-adhyaya-35/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-31-40-adhyaya-36/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-31-40-adhyaya-37/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-31-40-adhyaya-38/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-31-40-adhyaya-39/
+            https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/samhita-patha-31-40-adhyaya-40/
